@@ -1,0 +1,5 @@
+Introduccion a Git
+Funcion Commit: El comando git commit es uno de los mas importantes. Commit identifica los cambios hechos en el ambiente de trabajo. El comando git commit guarda los cambios hechos en el area de preparacion, staging area, junto con una breve descripcion del usuario, en un commit al repositorio local. 
+Funcion Push: Es un comando que sube los cambios hechos en tu ambiente de trabajo  y/o de tu equipo. Sirve para que los cambios se vean reflejados en tu repositorio remoto.
+Funcion Pull origin: Permite actualizar lo del repositorio local con lo que hay en el repositorio remoto. 
+Funcion Fetch: Este comando se usa para descargar contenidos desde un repositorio remoto. Se usa en combinacion con git remote, git branch, git checkout y git reset para actualizar un repositorio local al estado de un remoto.
